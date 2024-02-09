@@ -176,6 +176,10 @@ body {
         justify-content: center;
     }
 
+    .header-btn-small__link {
+        display: flex;
+    }
+
     .material-icons {
         color: #22282E;
     }
